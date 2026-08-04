@@ -17,13 +17,13 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate at **American International University-Bangladesh (AIUB)**. I love building software that solves real problems — from full-stack web apps to machine learning models.
+Hi there! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate at **American International University-Bangladesh (AIUB)**. I love developing fun, real-world software that people actually enjoy using. I code because I genuinely love it, and I'm especially passionate about working with AI.
 
 - 🎓 **BSc in CSE** — American International University-Bangladesh (AIUB)
-- 💻 Passionate about **Software Engineering & Full Stack Development**
-- 🤖 Exploring **Machine Learning** and **Artificial Intelligence**
-- 🌱 Currently learning **ASP.NET Core, Python & Data Science**
-- 🚀 I enjoy building software that solves real-world problems
+- 💻 Passionate about **AI, Full Stack Development & Software Engineering**
+- 🌱 Currently learning **Backend Development, AI & Data Science**
+- 🚀 I enjoy building software, solving real-world problems, making games, and cloning apps
+- 🎮 I love turning ideas into fun, usable products people actually enjoy
 
 ---
 
@@ -166,7 +166,6 @@ Research project focused on disease classification using machine learning techni
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🤖 Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -178,6 +177,8 @@ Research project focused on disease classification using machine learning techni
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
@@ -210,6 +211,7 @@ Research project focused on disease classification using machine learning techni
 | 🤖 | **Machine Learning** | Disease Classification |
 | 🌐 | **Web Development** | PHP & ASP.NET |
 | 📚 | **Learning** | AI & Data Science |
+| 🗂️ | **Productivity** | Notion & Trello for time & project management |
 | 🚀 | **Open Source** | Personal Projects |
 
 </div>

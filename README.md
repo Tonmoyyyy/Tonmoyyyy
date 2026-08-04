@@ -1,177 +1,165 @@
-<h1 align="center">Hi 👋, I'm Kamrul Hasan Tonmoy</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AIUB+CSE+Undergraduate;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+# Hey Everyone, I'm Kamrul Hasan Tonmoy 👋
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### 🎓 CSE Undergrad @ AIUB
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrul-hasan-tonmoy-000696263/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrulhasantonmoy9@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tonmoy.khalji)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy)
 
-  <a href="YOUR_FACEBOOK_LINK">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="https://github.com/Tonmoyyyy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
 
----
+## 📌 About Me
 
-# 👨‍💻 About Me
+Hi there! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate at **American International University - Bangladesh (AIUB)**. I love building software that solves real problems — from full-stack web apps to machine learning models.
 
-🎓 BSc in Computer Science & Engineering (AIUB)
+- 🎓 BSc in CSE — American International University-Bangladesh (AIUB)
+- 💻 Passionate about **Software Engineering & Full Stack Development**
+- 🤖 Exploring **Machine Learning** and **Artificial Intelligence**
+- 🌱 Currently learning **ASP.NET Core, Python & Data Science**
+- 🚀 I enjoy building software that solves real-world problems
 
-💻 Passionate about Software Engineering & Full Stack Development
+<br>
 
-🤖 Exploring Machine Learning and Artificial Intelligence
+## 🚀 Featured Projects
 
-🌱 Currently learning ASP.NET Core, Python & Data Science
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🚀 I enjoy building software that solves real-world problems.
-
----
-
-# 🚀 Featured Projects
-
-## 🎮 Computer Graphics – 2D Fighter
-
-**C++ | OpenGL | GLUT**
+### 🎮 Computer Graphics – 2D Fighter
+`C++` `OpenGL` `GLUT`
 
 A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft using keyboard controls, collision detection, and real-time gameplay.
 
-🔗 https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter
+**[View Project →](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter)**
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏥 Medical Management System
-
-**Java**
+### 🏥 Medical Management System
+`Java`
 
 A desktop-based medical management system for managing patients, doctors, appointments, medicines, billing, and healthcare records.
 
-🔗 https://github.com/Tonmoyyyy/Medical-Management
+**[View Project →](https://github.com/Tonmoyyyy/Medical-Management)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🍔 Online Food Ordering System
-
-**PHP | JavaScript | MySQL**
+### 🍔 Online Food Ordering System
+`PHP` `JavaScript` `MySQL`
 
 An online food ordering platform with restaurant management, customer ordering, admin dashboard, and order management features.
 
-🔗 https://github.com/Tonmoyyyy/Online-Food-Ordering-System
+**[View Project →](https://github.com/Tonmoyyyy/Online-Food-Ordering-System)**
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎓 Student Management System
-
-**Python | Tkinter | NumPy**
+### 🎓 Student Management System
+`Python` `Tkinter` `NumPy`
 
 A desktop application for managing student records with result analysis, grade statistics, and report generation.
 
-🔗 https://github.com/Tonmoyyyy/Student-management
+**[View Project →](https://github.com/Tonmoyyyy/Student-management)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## ✈ Tourism Management System
-
-**SQL | Database Design**
+### ✈️ Tourism Management System
+`SQL` `Database Design`
 
 Database design project for managing tourism agencies, customers, hotels, destinations, and bookings.
 
-🔗 https://github.com/Tonmoyyyy/Tourism-Management-System
+**[View Project →](https://github.com/Tonmoyyyy/Tourism-Management-System)**
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧠 Disease Classification Thesis
-
-**Python | Machine Learning | Jupyter Notebook**
+### 🧠 Disease Classification Thesis
+`Python` `Machine Learning` `Jupyter Notebook`
 
 Research project focused on disease classification using machine learning techniques and data preprocessing.
 
-🔗 https://github.com/Tonmoyyyy/Disease-classification-thesis
+**[View Project →](https://github.com/Tonmoyyyy/Disease-classification-thesis)**
 
----
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack
+<br>
 
-### Programming Languages
+## 🛠️ Tech Stack & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,cs,php,js,html,css,mysql" />
-</p>
+**Programming Languages**
 
-### Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
-</p>
+**Web Development**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-# 📊 GitHub Stats
+**Data Science & Machine Learning**
 
-<p align="center">
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tonmoyyyy&show_icons=true&theme=tokyonight"/>
+**Tools & Environments**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoyyyy&layout=compact&theme=tokyonight"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</p>
+<br>
 
----
+## 📊 GitHub Stats
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tonmoyyyy&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoyyyy&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoyyyy&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoyyyy&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
----
+<br>
 
-# 🏆 GitHub Trophy
+## 🎯 Current Focus
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tonmoyyyy&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-| Focus | Working On |
-|--------|------------|
+| Focus Area | Working On |
+|---|---|
 | 💻 Software Engineering | Full Stack Development |
 | 🤖 Machine Learning | Disease Classification |
 | 🌐 Web Development | PHP & ASP.NET |
 | 📚 Learning | AI & Data Science |
 | 🚀 Open Source | Personal Projects |
 
----
+<br>
 
-# 📫 Reach Me
+<div align="center">
 
-- 📧 YOUR_EMAIL
-- 💼 LinkedIn
-- 🌐 GitHub: https://github.com/Tonmoyyyy
+*"Code. Learn. Build. Repeat."*
 
----
+Thanks for visiting my profile! Feel free to connect — always open to collaborating on Software & ML projects 🚀
 
-<p align="center">
-
-### ⭐ "Code. Learn. Build. Repeat."
-
-Thanks for visiting my profile! ❤️
-
-</p>
+</div>

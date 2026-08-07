@@ -1,133 +1,403 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kamrul%20Hasan%20Tonmoy&fontSize=38&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=building%20things%20that%20make%20me%20go%20%22wait%2C%20that%20actually%20works%3F%22&descAlignY=58&descSize=16&descColor=8A8A8A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Tonmoy's%20Developer%20Universe&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Undergrad+%40+AIUB;Air+Defense+Game+Developer;Healthcare+System+Builder;AI%2FML+Explorer" />
+# 👾 Welcome to Tonmoy's Developer Universe
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
 
 </div>
 
 <br>
 
-## 👋 A quick intro
-
-I'm Tonmoy — I build software across some very different worlds: a 2D air-combat game defending Bangladesh's skies, a full hospital management system, a machine learning model that classifies disease, and everything in between.
-
-My rule is simple: **if I can imagine it, I try to build it.**
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/status-online-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/role-CSE%20Developer-00F7FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/fueled%20by-coffee%20%E2%98%95-8A2BE2?style=for-the-badge" />
-
-</div>
-
----
-
-## 🧠 What I'm into right now
 
 ```
-AI / Machine Learning      ▓▓▓▓▓▓▓▓▓░  90%
-Full-Stack Development     ▓▓▓▓▓▓▓░░░  70%
-Game Development           ▓▓▓▓▓▓░░░░  60%
-Database Design            ▓▓▓▓▓▓▓▓░░  80%
+             ⚽ TONMOY.SIU ⚽
+
+
+              █████████████████
+              █  DEVELOPER    █
+              █  MODE : ON    █
+              █████████████████
+
+
+              Status : 🟢 Online
+              Role   : CSE Developer
+              Mission: Build Cool Things
+              Energy : ☕ + Curiosity
+              Inspiration: Cristiano Ronaldo 🐐
+              
 ```
 
-<br>
+# 🧑‍💻 About Me
 
-## 🚀 Things I've built
+Hi! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate at **American International University-Bangladesh (AIUB)**.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I am a developer who loves creating software that people can actually use and enjoy.
 
-### ✈️ Bangladesh Air Defense
-A 2D air-combat game — dodge, shoot, survive.
-Built with real-time collision detection and enemy AI patterns.
+I don't just write code...
 
-`C++` `OOP` `Game Logic`
+I like taking random ideas, experimenting with technology, and turning them into real projects.
 
-</td>
-<td width="50%" valign="top">
+> "Every idea starts with a question: Can I build this?"
 
-### 🏥 MediCare Management System
-A full hospital workflow — doctors, patients, appointments, billing — digitized.
+🎓 BSc in CSE — AIUB  
+🤖 Artificial Intelligence Enthusiast  
+🌐 Full Stack Developer in Progress  
+🎮 Game & Application Developer  
+🧪 Machine Learning Explorer  
 
-`C#` `SQL` `GUI Development`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍔 Online Food Ordering Platform
-Customers, restaurants, and admins — one connected ecosystem.
-
-`PHP` `JavaScript` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Disease Classification (ML)
-A machine learning pipeline that classifies disease from raw data.
-
-`Python` `ML` `Data Preprocessing`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-Academic records, grade analysis, and auto-generated reports.
-
-`Python` `Tkinter` `NumPy`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧳 Tourism Management Database
-Agencies, hotels, destinations, and bookings — modeled and connected.
-
-`SQL` `ER Modeling`
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🛠️ Stack
+# 🎮 Developer Character Card
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,php,mysql,git&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub at a glance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamrulhasantonmoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasantonmoy&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%">
-</div>
+```
+╔══════════════════════════════╗
+║        TONMOY CARD           ║
+╠══════════════════════════════╣
+║ Class      : Code Explorer   ║
+║ Level      : CSE Developer   ║
+║ XP         : ████████░░ 80%  ║
+║ Main Skill : Problem Solving ║
+║ Weapon     : Python 🐍       ║
+║ Power      : Creativity      ║
+║ Quest      : Build Future    ║
+║ Weakness   : Too Many Ideas  ║
+╚══════════════════════════════╝
+```
 
 ---
 
+# 🚀 Featured Projects
+
+## ✈️ Bangladesh Air Defense
+
+**Type:** 🎮 Game Development
+
+A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft.
+
+### Features
+
+- 🎮 Keyboard Controls
+- 💥 Collision Detection
+- ⚡ Real-Time Gameplay
+- 🛩️ Enemy Aircraft System
+
+### Technologies
+
+```
+C++
+Graphics Programming
+Game Logic
+Object Oriented Programming
+```
+
+[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
+
+---
+
+## 🏥 MediCare Management System
+
+**Type:** 🖥️ Desktop Application
+
+A healthcare management system for managing medical information digitally.
+
+### Features
+
+- 👨‍⚕️ Doctor Management
+- 🧑 Patient Records
+- 📅 Appointment Management
+- 💊 Medicine Tracking
+- 💰 Billing System
+
+### Technologies
+
+```
+C#
+GUI Development
+SQL Database
+Software Engineering
+```
+
+[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Medical-Management.git)
+
+---
+
+## 🍔 Online Food Ordering Platform
+
+**Type:** 🌐 Full Stack Application
+
+A complete food ordering ecosystem connecting customers, restaurants, and administrators.
+
+### Features
+
+- 🍕 Restaurant Management
+- 🛒 Customer Ordering
+- 📊 Admin Dashboard
+- 📦 Order Management
+- 🗄️ Database Integration
+
+### Technologies
+
+```
+PHP
+JavaScript
+HTML
+CSS
+MySQL
+```
+
+[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Online-Food-Ordering-System.git)
+
+---
+
+## 🎓 Student Management System
+
+**Type:** 📊 Desktop Application
+
+A student management application with academic analysis and reporting.
+
+### Features
+
+- 📚 Student Records
+- 📈 Result Analysis
+- 📊 Grade Statistics
+- 📄 Report Generation
+
+### Technologies
+
+```
+Python
+Tkinter
+NumPy
+Data Analysis
+```
+
+[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Student-management.git)
+
+---
+
+## 🧳 Tourism Management Database System
+
+**Type:** 🗄️ Database Project
+
+A database system for managing tourism agencies, customers, hotels, destinations, and bookings.
+
+### Technologies
+
+```
+SQL
+Database Design
+ER Modeling
+Data Management
+```
+
+[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
+
+---
+
+## 🧠 Disease Classification Using Machine Learning
+
+**Type:** 🤖 AI Research Project
+
+A machine learning project focused on disease classification using data preprocessing and ML algorithms.
+
+### Technologies
+
+```
+Python
+Machine Learning
+Data Processing
+Classification Models
+Model Evaluation
+```
+
+[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Disease-classification-thesis.git)
+
+---
+
+## 🧑‍🤝‍🧑 AI Society Simulator
+
+**Type:** 🤖 AI Simulation Project
+
+**Status:** 🌱 Recently started
+
+### Technologies
+
+```
+Python
+AI / Multi-Agent Systems
+```
+
+[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/AI-Society-Simulator.git)
+
+---
+
+# 🧪 Current AI Research Lab
+
+```
+╔══════════════════════════╗
+║       AI LAB STATUS      ║
+╠══════════════════════════╣
+║ 🤖 Machine Learning  ON  ║
+║ 🧠 AI Research       ON  ║
+║ 📊 Data Analysis     ON  ║
+║ 🔍 Explainable AI    ON  ║
+╚══════════════════════════╝
+```
+
+Currently exploring:
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Explainable AI
+- Intelligent Applications
+
+
+---
+
+# 🛠️ My Developer Arsenal
+
+## 💻 Programming Languages
+
+```
+🐍 Python
+☕ Java
+⚡ C++
+🎨 C#
+```
+
+## 🌐 Web Technologies
+
+```
+HTML
+CSS
+JavaScript
+PHP
+ASP.NET
+MySQL
+```
+
+## 🤖 AI & Data Science
+
+```
+Machine Learning
+Data Preprocessing
+Model Training
+Classification Algorithms
+Explainable AI
+```
+
+
+---
+
+# 🎯 Current Missions
+
+| Mission | Status |
+|---|---|
+| 🤖 Master AI | 🔥 Active |
+| 🌐 Become Better Full Stack Developer | 🚀 Active |
+| 🧪 Research ML Models | 🧠 Running |
+| 💡 Build Useful Products | ❤️ Forever |
+
+
+---
+
+# 🎲 Developer Stats
+
+```
+☕ Coffee Energy
+
+████████░░ 80%
+
+
+💡 Ideas
+
+██████████ 100%
+
+
+🐛 Bugs Created
+
+██████████ 100%
+
+
+🛠️ Bugs Fixed
+
+███████░░░ 70%
+
+
+🚀 Motivation
+
+∞
+```
+
+
+---
+
+# 🏠 Tonmoy's Coding Room
+
+```
+╔══════════════════════════╗
+║     TONMOY'S ROOM        ║
+╠══════════════════════════╣
+║ 🖥️ Monitor : AI Models   ║
+║ 📚 Desk    : Research    ║
+║ 🎮 Shelf   : Games       ║
+║ ☕ Cup     : Debug Fuel  ║
+║ 💡 Brain   : New Ideas   ║
+╚══════════════════════════╝
+```
+
+
+---
+
+# 📊 GitHub Statistics
+
 <div align="center">
 
-**Got an idea worth building? Let's talk.**
+<img src="https://github-readme-stats.vercel.app/api?username=kamrulhasantonmoy&show_icons=true&theme=tokyonight" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasantonmoy&theme=tokyonight" />
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+</div>
+
+
+---
+
+# 🌎 Final Message
+
+```
+System Status:
+
+🟢 Learning
+🟢 Creating
+🟢 Experimenting
+🟢 Building
+
+Shutdown Command:
+Never
+```
+
+
+<div align="center">
+
+# 🚀 Code. Create. Experiment. Repeat.
+
+Thanks for visiting my developer universe ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
 
 </div>

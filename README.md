@@ -11,24 +11,6 @@
 <br>
 
 
-```
-             ⚽ TONMOY.SIU ⚽
-
-
-              █████████████████
-              █  DEVELOPER    █
-              █  MODE : ON    █
-              █████████████████
-
-
-              Status : 🟢 Online
-              Role   : CSE Developer
-              Mission: Build Cool Things
-              Energy : ☕ + Curiosity
-              Inspiration: Cristiano Ronaldo 🐐
-              
-```
-
 # 🧑‍💻 About Me
 
 Hi! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate at **American International University-Bangladesh (AIUB)**.
@@ -72,156 +54,95 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### ✈️ Bangladesh Air Defense
 
-<p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Game_Development-0A84FF?style=for-the-badge">
-</p>
+![C++](https://img.shields.io/badge/C%2B%2B-EF4444?style=for-the-badge&logo=cplusplus&logoColor=white) ![Game Dev](https://img.shields.io/badge/Game%20Dev-EF4444?style=for-the-badge)
 
-A fast-paced 2D fighter game where players defend Bangladesh's airspace against enemy aircraft using real-time controls, collision detection, and action-packed gameplay.
+A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft — real-time collision detection and an enemy aircraft system.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-EF4444?style=for-the-badge)](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🏥 MediCare Management System
 
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Desktop_App-8A2BE2?style=for-the-badge">
-</p>
+![C#](https://img.shields.io/badge/C%23-14B8A6?style=for-the-badge&logo=csharp&logoColor=white) ![Desktop App](https://img.shields.io/badge/Desktop%20App-14B8A6?style=for-the-badge)
 
-A complete healthcare management solution featuring patient records, doctor management, appointment scheduling, medicine inventory, and billing.
+A healthcare management system digitizing doctors, patients, appointments, medicine tracking, and billing.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Medical-Management">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-14B8A6?style=for-the-badge)](https://github.com/Tonmoyyyy/Medical-Management.git)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🍔 Online Food Ordering Platform
 
-<p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Full_Stack-00C853?style=for-the-badge">
-</p>
+![PHP](https://img.shields.io/badge/PHP-22C55E?style=for-the-badge&logo=php&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-22C55E?style=for-the-badge)
 
-A complete online food ordering ecosystem connecting customers, restaurants, and administrators with secure ordering and management.
+A complete food ordering ecosystem connecting customers, restaurants, and admins with real-time order management.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Online-Food-Ordering-System">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-22C55E?style=for-the-badge)](https://github.com/Tonmoyyyy/Online-Food-Ordering-System.git)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎓 Student Management System
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tkinter_GUI-1E88E5?style=for-the-badge">
-</p>
+![Python](https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-3B82F6?style=for-the-badge)
 
-Desktop application for student records, academic performance analysis, grade statistics, and intelligent reporting.
+A student management application with academic records, grade statistics, and auto-generated reports.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Student-management">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-1E90FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-3B82F6?style=for-the-badge)](https://github.com/Tonmoyyyy/Student-management.git)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🧳 Tourism Management Database
+### 🧳 Tourism Management Database System
 
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Database_System-009688?style=for-the-badge">
-</p>
+![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white) ![Database](https://img.shields.io/badge/Database-8B5CF6?style=for-the-badge)
 
-A database solution for managing tourism agencies, destinations, hotels, bookings, and customer information efficiently.
+A database system managing tourism agencies, customers, hotels, destinations, and bookings.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Tourism-Management-System">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-009688?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-8B5CF6?style=for-the-badge)](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧠 Disease Classification Using ML
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Machine_Learning-E53935?style=for-the-badge">
-</p>
+![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white) ![AI Research](https://img.shields.io/badge/AI%20Research-EC4899?style=for-the-badge)
 
-Machine learning project focused on disease prediction through data preprocessing, feature engineering, and classification algorithms.
+A machine learning project focused on disease classification using data preprocessing and ML algorithms.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Disease-classification-thesis">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-E53935?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-EC4899?style=for-the-badge)](https://github.com/Tonmoyyyy/Disease-classification-thesis.git)
 
 </td>
-
 </tr>
-
 <tr>
-
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
 ### 🧑‍🤝‍🧑 AI Society Simulator
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Multi--Agent_AI-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Research_Project-00B8D4?style=for-the-badge">
-</p>
+![Python](https://img.shields.io/badge/Python-06B6D4?style=for-the-badge&logo=python&logoColor=white) ![Recently Started](https://img.shields.io/badge/🌱%20Recently%20Started-06B6D4?style=for-the-badge)
 
-An intelligent virtual society powered by autonomous AI agents that communicate, cooperate, compete, learn, and evolve inside a dynamic simulation to study emergent social behavior and decision-making.
+A multi-agent AI simulation project modeling behaviors within a virtual society — just getting started.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/AI-Society-Simulator">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-06B6D4?style=for-the-badge)](https://github.com/Tonmoyyyy/AI-Society-Simulator.git)
 
 </td>
+<td width="50%" valign="top">
 
+</td>
 </tr>
-
 </table>
+
 ---
 
 # 🧪 Current AI Research Lab
@@ -319,32 +240,6 @@ Explainable AI
 
 </div>
 
-```
-☕ Coffee Energy
-
-████████░░ 80%
-
-
-💡 Ideas
-
-██████████ 100%
-
-
-🐛 Bugs Created
-
-██████████ 100%
-
-
-🛠️ Bugs Fixed
-
-███████░░░ 70%
-
-
-🚀 Motivation
-
-∞
-```
-
 
 ---
 
@@ -393,17 +288,11 @@ Explainable AI
 
 # 🌎 Final Message
 
-```
-System Status:
+<div align="center">
 
-🟢 Learning
-🟢 Creating
-🟢 Experimenting
-🟢 Building
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%9F%A2+Learning+%7C+Creating+%7C+Experimenting+%7C+Building+—+Shutdown%3A+Never" />
 
-Shutdown Command:
-Never
-```
+</div>
 
 
 <div align="center">

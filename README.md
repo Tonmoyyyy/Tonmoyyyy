@@ -69,7 +69,7 @@ A 2D air combat game where players defend Bangladesh's airspace against enemy ai
 
 ### 🏥 MediCare Management System
 
-![C#](https://img.shields.io/badge/C%23-14B8A6?style=for-the-badge&logo=csharp&logoColor=white) ![Desktop App](https://img.shields.io/badge/Desktop%20App-14B8A6?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-14B8A6?style=for-the-badge&logo=openjdk&logoColor=white) ![Desktop App](https://img.shields.io/badge/Desktop%20App-14B8A6?style=for-the-badge)
 
 A healthcare management system digitizing doctors, patients, appointments, medicine tracking, and billing.
 
@@ -161,13 +161,15 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 </div>
 
-Currently exploring:
+<div align="center">
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Explainable AI
-- Intelligent Applications
+**🔦 Currently exploring**
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4AEDE0?style=for-the-badge&logoColor=black) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4AEDE0?style=for-the-badge&logoColor=black) ![Data Science](https://img.shields.io/badge/Data%20Science-4AEDE0?style=for-the-badge&logoColor=black)
+
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-4AEDE0?style=for-the-badge&logoColor=black) ![Intelligent Applications](https://img.shields.io/badge/Intelligent%20Applications-4AEDE0?style=for-the-badge&logoColor=black)
+
+</div>
 
 
 ---
@@ -175,52 +177,41 @@ Currently exploring:
 # 🛠️ My Developer Arsenal
 
 <div align="center">
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=bounce&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=java&animation=pulse&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=cpp&animation=glow&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&animation=wiggle&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=html5&animation=bounce&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=css3&animation=pulse&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&animation=glow&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=php&animation=wiggle&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=bounce&size=56" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=spin&size=56" />
+
+### 💻 Programming Languages
+
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=shake&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=java&animation=fade&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&animation=rainbow&size=56" />
+<img src="https://skillicons.dev/icons?i=cs" height="56" />
+
+<br><br>
+
+### 🌐 Web Technologies
+
+<img src="https://www.readmecodegen.com/api/social-icon?name=html5&animation=shake&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=css3&animation=fade&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&animation=rainbow&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=php&animation=shake&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=fade&size=56" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="56" />
+
 </div>
-
-## 💻 Programming Languages
-
-```
-🐍 Python
-☕ Java
-⚡ C++
-🎨 C#
-```
-
-## 🌐 Web Technologies
-
-```
-HTML
-CSS
-JavaScript
-PHP
-ASP.NET
-MySQL
-```
 
 ## 🤖 AI & Data Science
 
-```
-Machine Learning
-Data Preprocessing
-Model Training
-Classification Algorithms
-Explainable AI
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=700&color=7B2FF7&center=true&vCenter=true&width=520&lines=Machine+Learning;Data+Preprocessing;Model+Training;Classification+Algorithms;Explainable+AI" />
+
+</div>
 
 
 ---
 
 # 🎯 Current Missions
+
+<div align="center">
 
 | Mission | Status |
 |---|---|
@@ -228,6 +219,8 @@ Explainable AI
 | 🌐 Become Better Full Stack Developer | 🚀 Active |
 | 🧪 Research ML Models | 🧠 Running |
 | 💡 Build Useful Products | ❤️ Forever |
+
+</div>
 
 
 ---
@@ -256,19 +249,6 @@ Explainable AI
 🟫🪟🟫🪵🟫🪟🟫🪵🟫🪟🟫🪵🟫🪟🟫
 
 <sub>🛏️ respawn point set: <b>Tonmoy's Coding Room</b> 🛏️</sub>
-
-</div>
-
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamrulhasantonmoy&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasantonmoy&theme=tokyonight" />
 
 </div>
 

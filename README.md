@@ -71,44 +71,29 @@ I like taking random ideas, experimenting with technology, and turning them into
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### ✈️ Bangladesh Air Defense
+## ✈️ <a href="https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter">Bangladesh Air Defense ↗</a>
 
-<p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Game_Development-0A84FF?style=for-the-badge">
-</p>
 
 A fast-paced 2D fighter game where players defend Bangladesh's airspace against enemy aircraft using real-time controls, collision detection, and action-packed gameplay.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
 </td>
 
 <td width="50%" valign="top">
 
-### 🏥 MediCare Management System
+## 🏥 <a href="https://github.com/Tonmoyyyy/Medical-Management">MediCare Management System ↗</a>
 
-<p>
 <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Desktop_App-8A2BE2?style=for-the-badge">
-</p>
 
 A complete healthcare management solution featuring patient records, doctor management, appointment scheduling, medicine inventory, and billing.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Medical-Management">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
 </td>
 
 </tr>
@@ -117,39 +102,23 @@ A complete healthcare management solution featuring patient records, doctor mana
 
 <td width="50%" valign="top">
 
-### 🍔 Online Food Ordering Platform
+## 🍔 <a href="https://github.com/Tonmoyyyy/Online-Food-Ordering-System">Online Food Ordering Platform ↗</a>
 
-<p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Full_Stack-00C853?style=for-the-badge">
-</p>
 
 A complete online food ordering ecosystem connecting customers, restaurants, and administrators with secure ordering and management.
 
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Online-Food-Ordering-System">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
 </td>
 
 <td width="50%" valign="top">
 
-### 🎓 Student Management System
+## 🎓 <a href="https://github.com/Tonmoyyyy/Student-management">Student Management System ↗</a>
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Tkinter_GUI-1E88E5?style=for-the-badge">
-</p>
 
 Desktop application for student records, academic performance analysis, grade statistics, and intelligent reporting.
-
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Student-management">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-1E90FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
 
 </td>
 
@@ -159,39 +128,23 @@ Desktop application for student records, academic performance analysis, grade st
 
 <td width="50%" valign="top">
 
-### 🧳 Tourism Management Database
+## 🧳 <a href="https://github.com/Tonmoyyyy/Tourism-Management-System">Tourism Management Database ↗</a>
 
-<p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Database_System-009688?style=for-the-badge">
-</p>
 
 A database solution for managing tourism agencies, destinations, hotels, bookings, and customer information efficiently.
-
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Tourism-Management-System">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-009688?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Disease Classification Using ML
+## 🧠 <a href="https://github.com/Tonmoyyyy/Disease-classification-thesis">Disease Classification Using ML ↗</a>
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Machine_Learning-E53935?style=for-the-badge">
-</p>
 
 Machine learning project focused on disease prediction through data preprocessing, feature engineering, and classification algorithms.
-
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/Disease-classification-thesis">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-E53935?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
 
 </td>
 
@@ -201,21 +154,13 @@ Machine learning project focused on disease prediction through data preprocessin
 
 <td colspan="2" align="center">
 
-### 🧑‍🤝‍🧑 AI Society Simulator
+## 🧑‍🤝‍🧑 <a href="https://github.com/Tonmoyyyy/AI-Society-Simulator">AI Society Simulator ↗</a>
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Multi--Agent_AI-7C3AED?style=for-the-badge">
 <img src="https://img.shields.io/badge/Research_Project-00B8D4?style=for-the-badge">
-</p>
 
 An intelligent virtual society powered by autonomous AI agents that communicate, cooperate, compete, learn, and evolve inside a dynamic simulation to study emergent social behavior and decision-making.
-
-<p align="center">
-<a href="https://github.com/Tonmoyyyy/AI-Society-Simulator">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
 
 </td>
 

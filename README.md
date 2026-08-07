@@ -1,13 +1,14 @@
 <div align="center">
 
-# 👾 Welcome to Tonmoy's Developer Universe
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Tonmoy's%20Developer%20Universe&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Code%20•%20Create%20•%20Experiment%20•%20Repeat&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+%F0%9F%9A%80" />
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 
 </div>
 
 <br>
-
 
 ```
              ⚽ TONMOY.SIU ⚽
@@ -27,7 +28,18 @@
               
 ```
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamrulhasantonmoy&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/kamrulhasantonmoy?style=for-the-badge&color=8A2BE2&logo=github)
+
+</div>
+
+---
+
 # 🧑‍💻 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/soruce/coding.gif">
 
 Hi! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate at **American International University-Bangladesh (AIUB)**.
 
@@ -45,6 +57,7 @@ I like taking random ideas, experimenting with technology, and turning them into
 🎮 Game & Application Developer  
 🧪 Machine Learning Explorer  
 
+<br clear="right"/>
 
 ---
 
@@ -69,147 +82,81 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 # 🚀 Featured Projects
 
-## ✈️ Bangladesh Air Defense
-
-**Type:** 🎮 Game Development
+<details open>
+<summary><b>✈️ Bangladesh Air Defense — 🎮 Game Development</b></summary>
+<br>
 
 A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft.
 
-### Features
+**Features:** 🎮 Keyboard Controls · 💥 Collision Detection · ⚡ Real-Time Gameplay · 🛩️ Enemy Aircraft System
 
-- 🎮 Keyboard Controls
-- 💥 Collision Detection
-- ⚡ Real-Time Gameplay
-- 🛩️ Enemy Aircraft System
+`C++` `Graphics Programming` `Game Logic` `OOP`
 
-### Technologies
+</details>
 
-```
-C++
-Graphics Programming
-Game Logic
-Object Oriented Programming
-```
-
-
----
-
-## 🏥 MediCare Management System
-
-**Type:** 🖥️ Desktop Application
+<details>
+<summary><b>🏥 MediCare Management System — 🖥️ Desktop Application</b></summary>
+<br>
 
 A healthcare management system for managing medical information digitally.
 
-### Features
+**Features:** 👨‍⚕️ Doctor Management · 🧑 Patient Records · 📅 Appointment Management · 💊 Medicine Tracking · 💰 Billing System
 
-- 👨‍⚕️ Doctor Management
-- 🧑 Patient Records
-- 📅 Appointment Management
-- 💊 Medicine Tracking
-- 💰 Billing System
+`C#` `GUI Development` `SQL Database` `Software Engineering`
 
-### Technologies
+</details>
 
-```
-C#
-GUI Development
-SQL Database
-Software Engineering
-```
-
-
----
-
-## 🍔 Online Food Ordering Platform
-
-**Type:** 🌐 Full Stack Application
+<details>
+<summary><b>🍔 Online Food Ordering Platform — 🌐 Full Stack Application</b></summary>
+<br>
 
 A complete food ordering ecosystem connecting customers, restaurants, and administrators.
 
-### Features
+**Features:** 🍕 Restaurant Management · 🛒 Customer Ordering · 📊 Admin Dashboard · 📦 Order Management · 🗄️ Database Integration
 
-- 🍕 Restaurant Management
-- 🛒 Customer Ordering
-- 📊 Admin Dashboard
-- 📦 Order Management
-- 🗄️ Database Integration
+`PHP` `JavaScript` `HTML` `CSS` `MySQL`
 
-### Technologies
+</details>
 
-```
-PHP
-JavaScript
-HTML
-CSS
-MySQL
-```
-
-
----
-
-## 🎓 Student Management System
-
-**Type:** 📊 Desktop Application
+<details>
+<summary><b>🎓 Student Management System — 📊 Desktop Application</b></summary>
+<br>
 
 A student management application with academic analysis and reporting.
 
-### Features
+**Features:** 📚 Student Records · 📈 Result Analysis · 📊 Grade Statistics · 📄 Report Generation
 
-- 📚 Student Records
-- 📈 Result Analysis
-- 📊 Grade Statistics
-- 📄 Report Generation
+`Python` `Tkinter` `NumPy` `Data Analysis`
 
-### Technologies
+</details>
 
-```
-Python
-Tkinter
-NumPy
-Data Analysis
-```
-
-
----
-
-## 🧳 Tourism Management Database System
-
-**Type:** 🗄️ Database Project
+<details>
+<summary><b>🧳 Tourism Management Database System — 🗄️ Database Project</b></summary>
+<br>
 
 A database system for managing tourism agencies, customers, hotels, destinations, and bookings.
 
-### Technologies
+`SQL` `Database Design` `ER Modeling` `Data Management`
 
-```
-SQL
-Database Design
-ER Modeling
-Data Management
-```
+</details>
 
-
----
-
-## 🧠 Disease Classification Using Machine Learning
-
-**Type:** 🤖 AI Research Project
+<details>
+<summary><b>🧠 Disease Classification Using Machine Learning — 🤖 AI Research Project</b></summary>
+<br>
 
 A machine learning project focused on disease classification using data preprocessing and ML algorithms.
 
-### Technologies
+`Python` `Machine Learning` `Data Processing` `Classification Models` `Model Evaluation`
 
-```
-Python
-Machine Learning
-Data Processing
-Classification Models
-Model Evaluation
-```
-
+</details>
 
 ---
 
 # 🧪 Current AI Research Lab
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aditya6565/aditya6565/output/snake.svg" width="1">
+</div>
 
 ```
 ╔══════════════════════════╗
@@ -222,49 +169,27 @@ Model Evaluation
 ╚══════════════════════════╝
 ```
 
-Currently exploring:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Explainable AI
-- Intelligent Applications
-
+Currently exploring: **Artificial Intelligence · Machine Learning · Data Science · Explainable AI · Intelligent Applications**
 
 ---
 
 # 🛠️ My Developer Arsenal
 
-## 💻 Programming Languages
+<div align="center">
 
-```
-🐍 Python
-☕ Java
-⚡ C++
-🎨 C#
-```
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs&theme=dark" />
 
-## 🌐 Web Technologies
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,php,dotnet,mysql&theme=dark" />
 
-```
-HTML
-CSS
-JavaScript
-PHP
-ASP.NET
-MySQL
-```
+### 🤖 AI & Data Science
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
 
-## 🤖 AI & Data Science
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
 
-```
-Machine Learning
-Data Preprocessing
-Model Training
-Classification Algorithms
-Explainable AI
-```
-
+</div>
 
 ---
 
@@ -277,41 +202,25 @@ Explainable AI
 | 🧪 Research ML Models | 🧠 Running |
 | 💡 Build Useful Products | ❤️ Forever |
 
-
 ---
 
 # 🎲 Developer Stats
 
 ```
-☕ Coffee Energy
-
-████████░░ 80%
-
-
-💡 Ideas
-
-██████████ 100%
-
-
-🐛 Bugs Created
-
-██████████ 100%
-
-
-🛠️ Bugs Fixed
-
-███████░░░ 70%
-
-
-🚀 Motivation
-
-∞
+☕ Coffee Energy      ████████░░ 80%
+💡 Ideas              ██████████ 100%
+🐛 Bugs Created       ██████████ 100%
+🛠️ Bugs Fixed         ███████░░░ 70%
+🚀 Motivation         ∞
 ```
-
 
 ---
 
 # 🏠 Tonmoy's Coding Room
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/darth-vader.gif" width="1">
+</div>
 
 ```
 ╔══════════════════════════╗
@@ -325,19 +234,30 @@ Explainable AI
 ╚══════════════════════════╝
 ```
 
-
 ---
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamrulhasantonmoy&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=kamrulhasantonmoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasantonmoy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasantonmoy&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasantonmoy&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulhasantonmoy&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kamrulhasantonmoy&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
@@ -349,10 +269,11 @@ Explainable AI
 
 </div>
 
-
 ---
 
 # 🌎 Final Message
+
+<div align="center">
 
 ```
 System Status:
@@ -366,11 +287,12 @@ Shutdown Command:
 Never
 ```
 
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300">
 
 # 🚀 Code. Create. Experiment. Repeat.
 
-Thanks for visiting my developer universe ❤️
+### Thanks for visiting my developer universe ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Tonmoy's%20Developer%20Universe&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D2818,50:00FF66,100:0D2818&height=210&section=header&text=OMNITRIX%20ACTIVATED&fontSize=34&fontColor=00FF66&animation=twinkling&fontAlignY=35&desc=👽%20It's%20Hero%20Time%20—%20Tonmoy's%20Developer%20Universe%20👽&descAlignY=62&descSize=16&descColor=39FF14" width="100%"/>
 
 # 👾 Welcome to Tonmoy's Developer Universe
 
@@ -71,7 +71,7 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 # 🚀 Featured Projects
 
-## ✈️ Bangladesh Air Defense
+## ✈️ [Bangladesh Air Defense](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
 
 **Type:** 🎮 Game Development
 
@@ -93,11 +93,10 @@ Game Logic
 Object Oriented Programming
 ```
 
-[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
 
 ---
 
-## 🏥 MediCare Management System
+## 🏥 [MediCare Management System](https://github.com/Tonmoyyyy/Medical-Management.git)
 
 **Type:** 🖥️ Desktop Application
 
@@ -120,11 +119,10 @@ SQL Database
 Software Engineering
 ```
 
-[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Medical-Management.git)
 
 ---
 
-## 🍔 Online Food Ordering Platform
+## 🍔 [Online Food Ordering Platform](https://github.com/Tonmoyyyy/Online-Food-Ordering-System.git)
 
 **Type:** 🌐 Full Stack Application
 
@@ -148,11 +146,10 @@ CSS
 MySQL
 ```
 
-[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Online-Food-Ordering-System.git)
 
 ---
 
-## 🎓 Student Management System
+## 🎓 [Student Management System](https://github.com/Tonmoyyyy/Student-management.git)
 
 **Type:** 📊 Desktop Application
 
@@ -174,11 +171,10 @@ NumPy
 Data Analysis
 ```
 
-[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Student-management.git)
 
 ---
 
-## 🧳 Tourism Management Database System
+## 🧳 [Tourism Management Database System](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
 
 **Type:** 🗄️ Database Project
 
@@ -193,11 +189,10 @@ ER Modeling
 Data Management
 ```
 
-[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
 
 ---
 
-## 🧠 Disease Classification Using Machine Learning
+## 🧠 [Disease Classification Using Machine Learning](https://github.com/Tonmoyyyy/Disease-classification-thesis.git)
 
 **Type:** 🤖 AI Research Project
 
@@ -213,11 +208,10 @@ Classification Models
 Model Evaluation
 ```
 
-[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/Disease-classification-thesis.git)
 
 ---
 
-## 🧑‍🤝‍🧑 AI Society Simulator
+## 🧑‍🤝‍🧑 [AI Society Simulator](https://github.com/Tonmoyyyy/AI-Society-Simulator.git)
 
 **Type:** 🤖 AI Simulation Project
 
@@ -230,7 +224,6 @@ Python
 AI / Multi-Agent Systems
 ```
 
-[![View Repository](https://img.shields.io/badge/View-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonmoyyyy/AI-Society-Simulator.git)
 
 ---
 
@@ -259,6 +252,19 @@ Currently exploring:
 ---
 
 # 🛠️ My Developer Arsenal
+
+<div align="center">
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=bounce&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=java&animation=pulse&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=cpp&animation=glow&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&animation=wiggle&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=html5&animation=bounce&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=css3&animation=pulse&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&animation=glow&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=php&animation=wiggle&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=bounce&size=56" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=git&animation=spin&size=56" />
+</div>
 
 ## 💻 Programming Languages
 
@@ -307,6 +313,12 @@ Explainable AI
 
 # 🎲 Developer Stats
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF66&center=true&vCenter=true&width=500&lines=%E2%98%95+Coffee+Energy%3A+80%25;%F0%9F%92%A1+Ideas%3A+100%25;%F0%9F%90%9B+Bugs+Created%3A+100%25;%F0%9F%9B%A0%EF%B8%8F+Bugs+Fixed%3A+70%25;%F0%9F%9A%80+Motivation%3A+%E2%88%9E" />
+
+</div>
+
 ```
 ☕ Coffee Energy
 
@@ -337,6 +349,12 @@ Explainable AI
 ---
 
 # 🏠 Tonmoy's Coding Room
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=500&lines=%F0%9F%96%A5%EF%B8%8F+Monitor+%3A+AI+Models;%F0%9F%93%9A+Desk+%3A+Research;%F0%9F%8E%AE+Shelf+%3A+Games;%E2%98%95+Cup+%3A+Debug+Fuel;%F0%9F%92%A1+Brain+%3A+New+Ideas" />
+
+</div>
 
 ```
 ╔══════════════════════════╗
@@ -398,6 +416,6 @@ Never
 
 Thanks for visiting my developer universe ❤️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D2818,50:00FF66,100:0D2818&height=120&section=footer" width="100%"/>
 
 </div>

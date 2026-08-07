@@ -71,102 +71,164 @@ I like taking random ideas, experimenting with technology, and turning them into
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## ✈️ <a href="https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter">Bangladesh Air Defense ↗</a>
+## ✈️ [Bangladesh Air Defense](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Game_Development-0A84FF?style=for-the-badge">
+**Type:** 🎮 Game Development
 
-A fast-paced 2D fighter game where players defend Bangladesh's airspace against enemy aircraft using real-time controls, collision detection, and action-packed gameplay.
+A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft.
+
+**Features**
+- 🎮 Keyboard Controls
+- 💥 Collision Detection
+- ⚡ Real-Time Gameplay
+- 🛩️ Enemy Aircraft System
+
+**Technologies**
+```
+C++
+Graphics Programming
+Game Logic
+Object Oriented Programming
+```
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🏥 <a href="https://github.com/Tonmoyyyy/Medical-Management">MediCare Management System ↗</a>
+## 🏥 [MediCare Management System](https://github.com/Tonmoyyyy/Medical-Management.git)
 
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Desktop_App-8A2BE2?style=for-the-badge">
+**Type:** 🖥️ Desktop Application
 
-A complete healthcare management solution featuring patient records, doctor management, appointment scheduling, medicine inventory, and billing.
+A healthcare management system for managing medical information digitally.
+
+**Features**
+- 👨‍⚕️ Doctor Management
+- 🧑 Patient Records
+- 📅 Appointment Management
+- 💊 Medicine Tracking
+- 💰 Billing System
+
+**Technologies**
+```
+C#
+GUI Development
+SQL Database
+Software Engineering
+```
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## 🍔 <a href="https://github.com/Tonmoyyyy/Online-Food-Ordering-System">Online Food Ordering Platform ↗</a>
+## 🍔 [Online Food Ordering Platform](https://github.com/Tonmoyyyy/Online-Food-Ordering-System.git)
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Full_Stack-00C853?style=for-the-badge">
+**Type:** 🌐 Full Stack Application
 
-A complete online food ordering ecosystem connecting customers, restaurants, and administrators with secure ordering and management.
+A complete food ordering ecosystem connecting customers, restaurants, and administrators.
+
+**Features**
+- 🍕 Restaurant Management
+- 🛒 Customer Ordering
+- 📊 Admin Dashboard
+- 📦 Order Management
+- 🗄️ Database Integration
+
+**Technologies**
+```
+PHP
+JavaScript
+HTML
+CSS
+MySQL
+```
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🎓 <a href="https://github.com/Tonmoyyyy/Student-management">Student Management System ↗</a>
+## 🎓 [Student Management System](https://github.com/Tonmoyyyy/Student-management.git)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tkinter_GUI-1E88E5?style=for-the-badge">
+**Type:** 📊 Desktop Application
 
-Desktop application for student records, academic performance analysis, grade statistics, and intelligent reporting.
+A student management application with academic analysis and reporting.
+
+**Features**
+- 📚 Student Records
+- 📈 Result Analysis
+- 📊 Grade Statistics
+- 📄 Report Generation
+
+**Technologies**
+```
+Python
+Tkinter
+NumPy
+Data Analysis
+```
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## 🧳 <a href="https://github.com/Tonmoyyyy/Tourism-Management-System">Tourism Management Database ↗</a>
+## 🧳 [Tourism Management Database System](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Database_System-009688?style=for-the-badge">
+**Type:** 🗄️ Database Project
 
-A database solution for managing tourism agencies, destinations, hotels, bookings, and customer information efficiently.
+A database system for managing tourism agencies, customers, hotels, destinations, and bookings.
+
+**Technologies**
+```
+SQL
+Database Design
+ER Modeling
+Data Management
+```
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🧠 <a href="https://github.com/Tonmoyyyy/Disease-classification-thesis">Disease Classification Using ML ↗</a>
+## 🧠 [Disease Classification Using Machine Learning](https://github.com/Tonmoyyyy/Disease-classification-thesis.git)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Machine_Learning-E53935?style=for-the-badge">
+**Type:** 🤖 AI Research Project
 
-Machine learning project focused on disease prediction through data preprocessing, feature engineering, and classification algorithms.
+A machine learning project focused on disease classification using data preprocessing and ML algorithms.
+
+**Technologies**
+```
+Python
+Machine Learning
+Data Processing
+Classification Models
+Model Evaluation
+```
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td colspan="2" align="center">
+## 🧑‍🤝‍🧑 [AI Society Simulator](https://github.com/Tonmoyyyy/AI-Society-Simulator.git)
 
-## 🧑‍🤝‍🧑 <a href="https://github.com/Tonmoyyyy/AI-Society-Simulator">AI Society Simulator ↗</a>
+**Type:** 🤖 AI Simulation Project
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Multi--Agent_AI-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Research_Project-00B8D4?style=for-the-badge">
+**Status:** 🌱 Recently started
 
-An intelligent virtual society powered by autonomous AI agents that communicate, cooperate, compete, learn, and evolve inside a dynamic simulation to study emergent social behavior and decision-making.
+**Technologies**
+```
+Python
+AI / Multi-Agent Systems
+```
 
 </td>
+<td width="50%" valign="top">
 
+</td>
 </tr>
-
 </table>
+
 ---
 
 # 🧪 Current AI Research Lab

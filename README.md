@@ -52,24 +52,27 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 # 🎮 Developer Character Card
 
-```
-╔══════════════════════════════╗
-║        TONMOY CARD           ║
-╠══════════════════════════════╣
-║ Class      : Code Explorer   ║
-║ Level      : CSE Developer   ║
-║ XP         : ████████░░ 80%  ║
-║ Main Skill : Problem Solving ║
-║ Weapon     : Python 🐍       ║
-║ Power      : Creativity      ║
-║ Quest      : Build Future    ║
-║ Weakness   : Too Many Ideas  ║
-╚══════════════════════════════╝
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A2A1A,50:5B8731,100:3A2A1A&height=55&text=%E2%9B%8F%EF%B8%8F%20TONMOY%20CARD%20%E2%9B%8F%EF%B8%8F&fontSize=20&fontColor=FFD700&fontAlignY=60&animation=fadeIn" width="70%"/>
+
+🟩🟫🟩🟫⬜🟫🟩🟫🟩🟫⬜🟫🟩🟫🟩
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=5EFF5E&center=true&vCenter=true&width=560&height=45&lines=Class%3A+Code+Explorer;Level%3A+CSE+Developer;XP%3A+80%25+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;Main+Skill%3A+Problem+Solving;Weapon%3A+Python+%F0%9F%90%8D;Power%3A+Creativity;Quest%3A+Build+Future;Weakness%3A+Too+Many+Ideas" />
+
+🟩🟫🟩🟫⬜🟫🟩🟫🟩🟫⬜🟫🟩🟫🟩
+
+<sub>💎 achievement unlocked: <b>Full Stack Explorer</b> 💎</sub>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## ✈️ [Bangladesh Air Defense](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
 
@@ -77,15 +80,13 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft.
 
-### Features
-
+**Features**
 - 🎮 Keyboard Controls
 - 💥 Collision Detection
 - ⚡ Real-Time Gameplay
 - 🛩️ Enemy Aircraft System
 
-### Technologies
-
+**Technologies**
 ```
 C++
 Graphics Programming
@@ -93,8 +94,8 @@ Game Logic
 Object Oriented Programming
 ```
 
-
----
+</td>
+<td width="50%" valign="top">
 
 ## 🏥 [MediCare Management System](https://github.com/Tonmoyyyy/Medical-Management.git)
 
@@ -102,16 +103,14 @@ Object Oriented Programming
 
 A healthcare management system for managing medical information digitally.
 
-### Features
-
+**Features**
 - 👨‍⚕️ Doctor Management
 - 🧑 Patient Records
 - 📅 Appointment Management
 - 💊 Medicine Tracking
 - 💰 Billing System
 
-### Technologies
-
+**Technologies**
 ```
 C#
 GUI Development
@@ -119,8 +118,10 @@ SQL Database
 Software Engineering
 ```
 
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ## 🍔 [Online Food Ordering Platform](https://github.com/Tonmoyyyy/Online-Food-Ordering-System.git)
 
@@ -128,16 +129,14 @@ Software Engineering
 
 A complete food ordering ecosystem connecting customers, restaurants, and administrators.
 
-### Features
-
+**Features**
 - 🍕 Restaurant Management
 - 🛒 Customer Ordering
 - 📊 Admin Dashboard
 - 📦 Order Management
 - 🗄️ Database Integration
 
-### Technologies
-
+**Technologies**
 ```
 PHP
 JavaScript
@@ -146,8 +145,8 @@ CSS
 MySQL
 ```
 
-
----
+</td>
+<td width="50%" valign="top">
 
 ## 🎓 [Student Management System](https://github.com/Tonmoyyyy/Student-management.git)
 
@@ -155,15 +154,13 @@ MySQL
 
 A student management application with academic analysis and reporting.
 
-### Features
-
+**Features**
 - 📚 Student Records
 - 📈 Result Analysis
 - 📊 Grade Statistics
 - 📄 Report Generation
 
-### Technologies
-
+**Technologies**
 ```
 Python
 Tkinter
@@ -171,8 +168,10 @@ NumPy
 Data Analysis
 ```
 
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ## 🧳 [Tourism Management Database System](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
 
@@ -180,8 +179,7 @@ Data Analysis
 
 A database system for managing tourism agencies, customers, hotels, destinations, and bookings.
 
-### Technologies
-
+**Technologies**
 ```
 SQL
 Database Design
@@ -189,8 +187,8 @@ ER Modeling
 Data Management
 ```
 
-
----
+</td>
+<td width="50%" valign="top">
 
 ## 🧠 [Disease Classification Using Machine Learning](https://github.com/Tonmoyyyy/Disease-classification-thesis.git)
 
@@ -198,8 +196,7 @@ Data Management
 
 A machine learning project focused on disease classification using data preprocessing and ML algorithms.
 
-### Technologies
-
+**Technologies**
 ```
 Python
 Machine Learning
@@ -208,8 +205,10 @@ Classification Models
 Model Evaluation
 ```
 
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ## 🧑‍🤝‍🧑 [AI Society Simulator](https://github.com/Tonmoyyyy/AI-Society-Simulator.git)
 
@@ -217,28 +216,36 @@ Model Evaluation
 
 **Status:** 🌱 Recently started
 
-### Technologies
-
+**Technologies**
 ```
 Python
 AI / Multi-Agent Systems
 ```
 
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🧪 Current AI Research Lab
 
-```
-╔══════════════════════════╗
-║       AI LAB STATUS      ║
-╠══════════════════════════╣
-║ 🤖 Machine Learning  ON  ║
-║ 🧠 AI Research       ON  ║
-║ 📊 Data Analysis     ON  ║
-║ 🔍 Explainable AI    ON  ║
-╚══════════════════════════╝
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1035,50:7B2FF7,100:1B1035&height=55&text=%F0%9F%94%AE%20AI%20LAB%20STATUS%20%F0%9F%94%AE&fontSize=20&fontColor=4AEDE0&fontAlignY=60&animation=fadeIn" width="70%"/>
+
+🟪⬛🟦⬛🟪⬛🟦⬛🟪⬛🟦⬛🟪⬛🟦
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=4AEDE0&center=true&vCenter=true&width=560&height=45&lines=%F0%9F%A4%96+Machine+Learning%3A+ON;%F0%9F%A7%A0+AI+Research%3A+ON;%F0%9F%93%8A+Data+Analysis%3A+ON;%F0%9F%94%8D+Explainable+AI%3A+ON" />
+
+🟪⬛🟦⬛🟪⬛🟦⬛🟪⬛🟦⬛🟪⬛🟦
+
+<sub>🔮 enchantment applied: <b>Efficiency V — AI Research</b> 🔮</sub>
+
+</div>
 
 Currently exploring:
 
@@ -352,21 +359,17 @@ Explainable AI
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=500&lines=%F0%9F%96%A5%EF%B8%8F+Monitor+%3A+AI+Models;%F0%9F%93%9A+Desk+%3A+Research;%F0%9F%8E%AE+Shelf+%3A+Games;%E2%98%95+Cup+%3A+Debug+Fuel;%F0%9F%92%A1+Brain+%3A+New+Ideas" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A2E1A,50:B5793B,100:4A2E1A&height=55&text=%F0%9F%8F%A0%20TONMOY'S%20ROOM%20%F0%9F%8F%A0&fontSize=20&fontColor=FFE9B3&fontAlignY=60&animation=fadeIn" width="70%"/>
+
+🟫🪟🟫🪵🟫🪟🟫🪵🟫🪟🟫🪵🟫🪟🟫
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=FFE9B3&center=true&vCenter=true&width=560&height=45&lines=%F0%9F%96%A5%EF%B8%8F+Monitor%3A+AI+Models;%F0%9F%93%9A+Desk%3A+Research;%F0%9F%8E%AE+Shelf%3A+Games;%E2%98%95+Cup%3A+Debug+Fuel;%F0%9F%92%A1+Brain%3A+New+Ideas" />
+
+🟫🪟🟫🪵🟫🪟🟫🪵🟫🪟🟫🪵🟫🪟🟫
+
+<sub>🛏️ respawn point set: <b>Tonmoy's Coding Room</b> 🛏️</sub>
 
 </div>
-
-```
-╔══════════════════════════╗
-║     TONMOY'S ROOM        ║
-╠══════════════════════════╣
-║ 🖥️ Monitor : AI Models   ║
-║ 📚 Desk    : Research    ║
-║ 🎮 Shelf   : Games       ║
-║ ☕ Cup     : Debug Fuel  ║
-║ 💡 Brain   : New Ideas   ║
-╚══════════════════════════╝
-```
 
 
 ---

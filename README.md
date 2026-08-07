@@ -8,15 +8,23 @@
 
 <br>
 
+
 ```
-              ███████████████████
-              █  TONMOY.EXE    █
-              ███████████████████
+             ⚽ TONMOY.SIU ⚽
+
+
+              █████████████████
+              █  DEVELOPER    █
+              █  MODE : ON    █
+              █████████████████
+
 
               Status : 🟢 Online
               Role   : CSE Developer
               Mission: Build Cool Things
               Energy : ☕ + Curiosity
+              Inspiration: Cristiano Ronaldo 🐐
+              
 ```
 
 # 🧑‍💻 About Me
@@ -51,9 +59,9 @@ I like taking random ideas, experimenting with technology, and turning them into
 ║ XP         : ████████░░ 80%  ║
 ║ Main Skill : Problem Solving ║
 ║ Weapon     : Python 🐍       ║
-║ Power      : Creativity ⚡   ║
+║ Power      : Creativity      ║
 ║ Quest      : Build Future    ║
-║ Weakness   : Too Many Ideas ║
+║ Weakness   : Too Many Ideas  ║
 ╚══════════════════════════════╝
 ```
 

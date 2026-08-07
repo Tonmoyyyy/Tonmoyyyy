@@ -68,120 +68,160 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box;">
-        <h3 align="center" style="margin-top: 0; border: none; color: #ffffff;">✈️ Bangladesh Air Defense</h3>
-        <p align="center" style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-          <img src="https://img.shields.io/badge/Game%20Dev-🎮-1b2838?style=flat-square" />
-        </p>
-        <p style="color: #8b949e; font-size: 14px; line-height: 1.5; text-align: center;">
-          A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft using real-time controls and collision mechanics.
-        </p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="#">
-            <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-00A86B?style=for-the-badge&logoColor=white" alt="View Project" />
-          </a>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box;">
-        <h3 align="center" style="margin-top: 0; border: none; color: #ffffff;">🏥 MediCare Management System</h3>
-        <p align="center" style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        </p>
-        <p style="color: #8b949e; font-size: 14px; line-height: 1.5; text-align: center;">
-          A healthcare desktop application for managing doctor schedules, patient records, appointments, inventory, and billing digitally.
-        </p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="#">
-            <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-6C5CE7?style=for-the-badge&logoColor=white" alt="View Project" />
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box;">
-        <h3 align="center" style="margin-top: 0; border: none; color: #ffffff;">🍔 Online Food Ordering Platform</h3>
-        <p align="center" style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        </p>
-        <p style="color: #8b949e; font-size: 14px; line-height: 1.5; text-align: center;">
-          Full-stack food ordering ecosystem connecting customers, restaurants, and administrators with real-time order tracking.
-        </p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="#">
-            <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-FF7675?style=for-the-badge&logoColor=white" alt="View Project" />
-          </a>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box;">
-        <h3 align="center" style="margin-top: 0; border: none; color: #ffffff;">🎓 Student Management System</h3>
-        <p align="center" style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Data%20Analysis-📊-008080?style=flat-square" />
-        </p>
-        <p style="color: #8b949e; font-size: 14px; line-height: 1.5; text-align: center;">
-          Desktop application designed for managing academic records, analyzing result patterns, and generating statistical reports.
-        </p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="#">
-            <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-0984E3?style=for-the-badge&logoColor=white" alt="View Project" />
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box;">
-        <h3 align="center" style="margin-top: 0; border: none; color: #ffffff;">🧠 Disease Classification via ML</h3>
-        <p align="center" style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Machine%20Learning-🤖-FF6F00?style=flat-square" />
-        </p>
-        <p style="color: #8b949e; font-size: 14px; line-height: 1.5; text-align: center;">
-          An AI research project implementing data preprocessing and machine learning classification algorithms to predict health conditions.
-        </p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="#">
-            <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-D63031?style=for-the-badge&logoColor=white" alt="View Project" />
-          </a>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box;">
-        <h3 align="center" style="margin-top: 0; border: none; color: #ffffff;">🧳 Tourism Database System</h3>
-        <p align="center" style="margin: 10px 0;">
-          <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Database%20Design-🗄️-2F3640?style=flat-square" />
-        </p>
-        <p style="color: #8b949e; font-size: 14px; line-height: 1.5; text-align: center;">
-          Comprehensive relational database architecture for travel agencies managing destinations, hotels, clients, and bookings.
-        </p>
-        <div align="center" style="margin-top: 15px;">
-          <a href="#">
-            <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-E1B12C?style=for-the-badge&logoColor=white" alt="View Project" />
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ✈️ Bangladesh Air Defense
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Game_Development-0A84FF?style=for-the-badge">
+</p>
+
+A fast-paced 2D fighter game where players defend Bangladesh's airspace against enemy aircraft using real-time controls, collision detection, and action-packed gameplay.
+
+<p align="center">
+<a href="https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter">
+<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 MediCare Management System
+
+<p>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Desktop_App-8A2BE2?style=for-the-badge">
+</p>
+
+A complete healthcare management solution featuring patient records, doctor management, appointment scheduling, medicine inventory, and billing.
+
+<p align="center">
+<a href="https://github.com/Tonmoyyyy/Medical-Management">
+<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🍔 Online Food Ordering Platform
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Full_Stack-00C853?style=for-the-badge">
+</p>
+
+A complete online food ordering ecosystem connecting customers, restaurants, and administrators with secure ordering and management.
+
+<p align="center">
+<a href="https://github.com/Tonmoyyyy/Online-Food-Ordering-System">
+<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter_GUI-1E88E5?style=for-the-badge">
+</p>
+
+Desktop application for student records, academic performance analysis, grade statistics, and intelligent reporting.
+
+<p align="center">
+<a href="https://github.com/Tonmoyyyy/Student-management">
+<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-1E90FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧳 Tourism Management Database
+
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Database_System-009688?style=for-the-badge">
+</p>
+
+A database solution for managing tourism agencies, destinations, hotels, bookings, and customer information efficiently.
+
+<p align="center">
+<a href="https://github.com/Tonmoyyyy/Tourism-Management-System">
+<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-009688?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Disease Classification Using ML
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-E53935?style=for-the-badge">
+</p>
+
+Machine learning project focused on disease prediction through data preprocessing, feature engineering, and classification algorithms.
+
+<p align="center">
+<a href="https://github.com/Tonmoyyyy/Disease-classification-thesis">
+<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-E53935?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 🧑‍🤝‍🧑 AI Society Simulator
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Multi--Agent_AI-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Research_Project-00B8D4?style=for-the-badge">
+</p>
+
+An intelligent virtual society powered by autonomous AI agents that communicate, cooperate, compete, learn, and evolve inside a dynamic simulation to study emergent social behavior and decision-making.
+
+<p align="center">
+<a href="https://github.com/Tonmoyyyy/AI-Society-Simulator">
+<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
-
 ---
 
 # 🧪 Current AI Research Lab

@@ -36,18 +36,15 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%91%BD%20TONMOY%20CARD%20%F0%9F%91%BD&fontSize=20&fontColor=00FF66&fontAlignY=60" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%91%BD%20TONMOY%20CARD%20%F0%9F%91%BD&fontSize=20&fontColor=00FF66&fontAlignY=60&animation=fadeIn" width="70%"/>
 
-| | |
-|---|---|
-| **Class** | Code Explorer |
-| **Level** | CSE Developer |
-| **XP** | ████████░░ 80% |
-| **Main Skill** | Problem Solving |
-| **Weapon** | Python 🐍 |
-| **Power** | Creativity |
-| **Quest** | Build Future |
-| **Weakness** | Too Many Ideas |
+🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=560&height=45&lines=Class%3A+Code+Explorer;Level%3A+CSE+Developer;XP%3A+80%25+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;Main+Skill%3A+Problem+Solving;Weapon%3A+Python+%F0%9F%90%8D;Power%3A+Creativity;Quest%3A+Build+Future;Weakness%3A+Too+Many+Ideas" />
+
+🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢
+
+<sub>👽 status: <b>Hero Mode — Fully Charged</b> 👽</sub>
 
 </div>
 
@@ -152,14 +149,15 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%94%AE%20AI%20LAB%20STATUS%20%F0%9F%94%AE&fontSize=20&fontColor=00FF66&fontAlignY=60" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%94%AE%20AI%20LAB%20STATUS%20%F0%9F%94%AE&fontSize=20&fontColor=00FF66&fontAlignY=60&animation=fadeIn" width="70%"/>
 
-| | |
-|---|---|
-| 🤖 Machine Learning | ON |
-| 🧠 AI Research | ON |
-| 📊 Data Analysis | ON |
-| 🔍 Explainable AI | ON |
+🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=00FF66&center=true&vCenter=true&width=560&height=45&lines=%F0%9F%A4%96+Machine+Learning%3A+ON;%F0%9F%A7%A0+AI+Research%3A+ON;%F0%9F%93%8A+Data+Analysis%3A+ON;%F0%9F%94%8D+Explainable+AI%3A+ON" />
+
+🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢
+
+<sub>👽 signal received: <b>Analysis Commenced</b> 👽</sub>
 
 </div>
 
@@ -242,15 +240,15 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%8F%A0%20TONMOY'S%20ROOM%20%F0%9F%8F%A0&fontSize=20&fontColor=00FF66&fontAlignY=60" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%8F%A0%20TONMOY'S%20ROOM%20%F0%9F%8F%A0&fontSize=20&fontColor=00FF66&fontAlignY=60&animation=fadeIn" width="70%"/>
 
-| | |
-|---|---|
-| 🖥️ Monitor | AI Models |
-| 📚 Desk | Research |
-| 🎮 Shelf | Games |
-| ☕ Cup | Debug Fuel |
-| 💡 Brain | New Ideas |
+🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=00FF66&center=true&vCenter=true&width=560&height=45&lines=%F0%9F%96%A5%EF%B8%8F+Monitor%3A+AI+Models;%F0%9F%93%9A+Desk%3A+Research;%F0%9F%8E%AE+Shelf%3A+Games;%E2%98%95+Cup%3A+Debug+Fuel;%F0%9F%92%A1+Brain%3A+New+Ideas" />
+
+🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢⬛🟢
+
+<sub>👽 base secured: <b>Tonmoy's Coding Room</b> 👽</sub>
 
 </div>
 

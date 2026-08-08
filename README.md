@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1C1C1C,100:000000&height=210&section=header&text=TONMOY.&fontSize=44&fontColor=F5C518&animation=fadeIn&fontAlignY=35&desc=🦇%20Silent%20by%20Day.%20Relentless%20by%20Night.%20🦇&descAlignY=62&descSize=16&descColor=8A8A8A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1C1C1C,100:000000&height=210&section=header&text=TONMOY.&fontSize=44&fontColor=F5C518&animation=fadeIn&fontAlignY=35&desc= %20Silent%20by%20Day.%20Relentless%20by%20Night.%20 &descAlignY=62&descSize=16&descColor=8A8A8A" width="100%"/>
 
-<sub><i>"He who fears the dark has never seen what it builds. — Gotham's Silent Coder"</i></sub>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1500&color=F5C518&center=true&vCenter=true&width=300&lines=🦇;🦇🦇;🦇🦇🦇;🦇🦇;🦇" />
 
-# 🦇 Welcome to Tonmoy's Developer Universe
+
+#  Welcome to Tonmoy's Developer Universe
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
 
@@ -21,7 +20,7 @@ Hi! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate 
 
 I am a developer who loves creating software that people can actually use and enjoy.
 
-I don't just write code...
+I don't just write code.
 
 I like taking random ideas, experimenting with technology, and turning them into real projects.
 
@@ -40,15 +39,18 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:1C1C1C,100:0A0A0A&height=55&text=%F0%9F%A6%87%20TONMOY%20CARD%20%F0%9F%A6%87&fontSize=20&fontColor=F5C518&fontAlignY=60&animation=fadeIn" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:000000&height=55&text=%F0%9F%A6%87%20TONMOY%20CARD%20%F0%9F%A6%87&fontSize=20&fontColor=F5C518&fontAlignY=60" width="70%"/>
 
-🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&width=560&height=45&lines=Class%3A+Code+Explorer;Level%3A+CSE+Developer;XP%3A+80%25+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;Main+Skill%3A+Problem+Solving;Weapon%3A+Python+%F0%9F%90%8D;Power%3A+Creativity;Quest%3A+Build+Future;Weakness%3A+Too+Many+Ideas" />
-
-🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇
-
-<sub>🦇 status: <b>Gotham's Coder — Ever Vigilant</b> 🦇</sub>
+| | |
+|---|---|
+| **Class** | Code Explorer |
+| **Level** | CSE Developer |
+| **XP** | ████████░░ 80% |
+| **Main Skill** | Problem Solving |
+| **Weapon** | Python 🐍 |
+| **Power** | Creativity |
+| **Quest** | Build Future |
+| **Weakness** | Too Many Ideas |
 
 </div>
 
@@ -153,15 +155,14 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:1C1C1C,100:0A0A0A&height=55&text=%F0%9F%94%AE%20AI%20LAB%20STATUS%20%F0%9F%94%AE&fontSize=20&fontColor=F5C518&fontAlignY=60&animation=fadeIn" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:000000&height=55&text=%F0%9F%94%AE%20AI%20LAB%20STATUS%20%F0%9F%94%AE&fontSize=20&fontColor=F5C518&fontAlignY=60" width="70%"/>
 
-🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=F5C518&center=true&vCenter=true&width=560&height=45&lines=%F0%9F%A4%96+Machine+Learning%3A+ON;%F0%9F%A7%A0+AI+Research%3A+ON;%F0%9F%93%8A+Data+Analysis%3A+ON;%F0%9F%94%8D+Explainable+AI%3A+ON" />
-
-🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇
-
-<sub>🦇 signal received: <b>Analysis Commenced</b> 🦇</sub>
+| | |
+|---|---|
+| 🤖 Machine Learning | ON |
+| 🧠 AI Research | ON |
+| 📊 Data Analysis | ON |
+| 🔍 Explainable AI | ON |
 
 </div>
 
@@ -244,15 +245,15 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:1C1C1C,100:0A0A0A&height=55&text=%F0%9F%8F%A0%20TONMOY'S%20ROOM%20%F0%9F%8F%A0&fontSize=20&fontColor=F5C518&fontAlignY=60&animation=fadeIn" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:000000&height=55&text=%F0%9F%8F%A0%20TONMOY'S%20ROOM%20%F0%9F%8F%A0&fontSize=20&fontColor=F5C518&fontAlignY=60" width="70%"/>
 
-🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=F5C518&center=true&vCenter=true&width=560&height=45&lines=%F0%9F%96%A5%EF%B8%8F+Monitor%3A+AI+Models;%F0%9F%93%9A+Desk%3A+Research;%F0%9F%8E%AE+Shelf%3A+Games;%E2%98%95+Cup%3A+Debug+Fuel;%F0%9F%92%A1+Brain%3A+New+Ideas" />
-
-🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇🖤🦇
-
-<sub>🦇 hideout secured: <b>The Batcave of Code</b> 🦇</sub>
+| | |
+|---|---|
+| 🖥️ Monitor | AI Models |
+| 📚 Desk | Research |
+| 🎮 Shelf | Games |
+| ☕ Cup | Debug Fuel |
+| 💡 Brain | New Ideas |
 
 </div>
 
@@ -285,7 +286,6 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 Thanks for visiting my developer universe ❤️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1500&color=F5C518&center=true&vCenter=true&width=300&lines=🦇;🦇🦇;🦇🦇🦇;🦇🦇;🦇" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1C1C1C,100:000000&height=120&section=footer" width="100%"/>
 

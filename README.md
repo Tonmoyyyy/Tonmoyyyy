@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1C1C1C,100:000000&height=210&section=header&text=TONMOY.&fontSize=44&fontColor=F5C518&animation=fadeIn&fontAlignY=35&desc= %20Silent%20by%20Day.%20Relentless%20by%20Night.%20 &descAlignY=62&descSize=16&descColor=8A8A8A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D2818,50:00FF66,100:0D2818&height=210&section=header&text=OMNITRIX%20ACTIVATED&fontSize=34&fontColor=00FF66&animation=twinkling&fontAlignY=35&desc=👽%20It's%20Hero%20Time%20—%20Tonmoy's%20Developer%20Universe%20👽&descAlignY=62&descSize=16&descColor=39FF14" width="100%"/>
 
+# 👾 Welcome to Tonmoy's Developer Universe
 
-
-
-#  Welcome to Tonmoy's Developer Universe
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
 
 </div>
 
@@ -20,7 +17,7 @@ Hi! I'm **Kamrul Hasan Tonmoy**, a Computer Science & Engineering undergraduate 
 
 I am a developer who loves creating software that people can actually use and enjoy.
 
-I don't just write code.
+I don't just write code...
 
 I like taking random ideas, experimenting with technology, and turning them into real projects.
 
@@ -39,7 +36,7 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:000000&height=55&text=%F0%9F%A6%87%20TONMOY%20CARD%20%F0%9F%A6%87&fontSize=20&fontColor=F5C518&fontAlignY=60" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%91%BD%20TONMOY%20CARD%20%F0%9F%91%BD&fontSize=20&fontColor=00FF66&fontAlignY=60" width="70%"/>
 
 | | |
 |---|---|
@@ -64,11 +61,11 @@ I like taking random ideas, experimenting with technology, and turning them into
 
 ### ✈️ Bangladesh Air Defense
 
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white) ![Game Dev](https://img.shields.io/badge/Game%20Dev-000000?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-0D2818?style=for-the-badge&logo=cplusplus&logoColor=white) ![Game Dev](https://img.shields.io/badge/Game%20Dev-0D2818?style=for-the-badge)
 
 A 2D air combat game where players defend Bangladesh's airspace against enemy aircraft — real-time collision detection and an enemy aircraft system.
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-000000?style=for-the-badge)](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-0D2818?style=for-the-badge)](https://github.com/Tonmoyyyy/Computer-Graphics-Project--2D-Fighter.git)
 
 </td>
 <td width="50%" valign="top">
@@ -99,11 +96,11 @@ A complete food ordering ecosystem connecting customers, restaurants, and admins
 
 ### 🎓 Student Management System
 
-![Python](https://img.shields.io/badge/Python-F5C518?style=for-the-badge&logo=python&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F5C518?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-00FF66?style=for-the-badge&logo=python&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00FF66?style=for-the-badge)
 
 A student management application with academic records, grade statistics, and auto-generated reports.
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-F5C518?style=for-the-badge)](https://github.com/Tonmoyyyy/Student-management.git)
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-00FF66?style=for-the-badge)](https://github.com/Tonmoyyyy/Student-management.git)
 
 </td>
 </tr>
@@ -112,11 +109,11 @@ A student management application with academic records, grade statistics, and au
 
 ### 🧳 Tourism Management Database System
 
-![SQL](https://img.shields.io/badge/SQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=white) ![Database](https://img.shields.io/badge/Database-1C1C1C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-0D2818?style=for-the-badge&logo=mysql&logoColor=white) ![Database](https://img.shields.io/badge/Database-0D2818?style=for-the-badge)
 
 A database system managing tourism agencies, customers, hotels, destinations, and bookings.
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-1C1C1C?style=for-the-badge)](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT%20→-0D2818?style=for-the-badge)](https://github.com/Tonmoyyyy/Tourism-Management-System.git)
 
 </td>
 <td width="50%" valign="top">
@@ -155,7 +152,7 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:000000&height=55&text=%F0%9F%94%AE%20AI%20LAB%20STATUS%20%F0%9F%94%AE&fontSize=20&fontColor=F5C518&fontAlignY=60" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%94%AE%20AI%20LAB%20STATUS%20%F0%9F%94%AE&fontSize=20&fontColor=00FF66&fontAlignY=60" width="70%"/>
 
 | | |
 |---|---|
@@ -170,9 +167,9 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 **🔦 Currently exploring**
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-F5C518?style=for-the-badge&logoColor=black) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F5C518?style=for-the-badge&logoColor=black) ![Data Science](https://img.shields.io/badge/Data%20Science-F5C518?style=for-the-badge&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00FF66?style=for-the-badge&logoColor=black) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00FF66?style=for-the-badge&logoColor=black) ![Data Science](https://img.shields.io/badge/Data%20Science-00FF66?style=for-the-badge&logoColor=black)
 
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-F5C518?style=for-the-badge&logoColor=black) ![Intelligent Applications](https://img.shields.io/badge/Intelligent%20Applications-F5C518?style=for-the-badge&logoColor=black)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-00FF66?style=for-the-badge&logoColor=black) ![Intelligent Applications](https://img.shields.io/badge/Intelligent%20Applications-00FF66?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -207,7 +204,7 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=700&color=F5C518&center=true&vCenter=true&width=520&lines=Machine+Learning;Data+Preprocessing;Model+Training;Classification+Algorithms;Explainable+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=700&color=00FF66&center=true&vCenter=true&width=520&lines=Machine+Learning;Data+Preprocessing;Model+Training;Classification+Algorithms;Explainable+AI" />
 
 </div>
 
@@ -220,10 +217,10 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 | Mission | Status |
 |---|---|
-| 🤖 Master AI | ![Active](https://img.shields.io/badge/Active-F5C518?style=flat-square&logoColor=black) |
-| 🌐 Become Better Full Stack Developer | ![Active](https://img.shields.io/badge/Active-F5C518?style=flat-square&logoColor=black) |
+| 🤖 Master AI | ![Active](https://img.shields.io/badge/Active-00FF66?style=flat-square&logoColor=black) |
+| 🌐 Become Better Full Stack Developer | ![Active](https://img.shields.io/badge/Active-00FF66?style=flat-square&logoColor=black) |
 | 🧪 Research ML Models | ![Running](https://img.shields.io/badge/Running-3A3A3A?style=flat-square&logoColor=white) |
-| 💡 Build Useful Products | ![Forever](https://img.shields.io/badge/Forever-1C1C1C?style=flat-square&logoColor=white) |
+| 💡 Build Useful Products | ![Forever](https://img.shields.io/badge/Forever-0D2818?style=flat-square&logoColor=white) |
 
 </div>
 
@@ -234,7 +231,7 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=600&color=F5C518&center=true&vCenter=true&width=500&lines=%E2%98%95+Coffee+Energy%3A+80%25;%F0%9F%92%A1+Ideas%3A+100%25;%F0%9F%90%9B+Bugs+Created%3A+100%25;%F0%9F%9B%A0%EF%B8%8F+Bugs+Fixed%3A+70%25;%F0%9F%9A%80+Motivation%3A+%E2%88%9E" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF66&center=true&vCenter=true&width=500&lines=%E2%98%95+Coffee+Energy%3A+80%25;%F0%9F%92%A1+Ideas%3A+100%25;%F0%9F%90%9B+Bugs+Created%3A+100%25;%F0%9F%9B%A0%EF%B8%8F+Bugs+Fixed%3A+70%25;%F0%9F%9A%80+Motivation%3A+%E2%88%9E" />
 
 </div>
 
@@ -245,7 +242,7 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:000000&height=55&text=%F0%9F%8F%A0%20TONMOY'S%20ROOM%20%F0%9F%8F%A0&fontSize=20&fontColor=F5C518&fontAlignY=60" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:00FF66,100:0D2818&height=55&text=%F0%9F%8F%A0%20TONMOY'S%20ROOM%20%F0%9F%8F%A0&fontSize=20&fontColor=00FF66&fontAlignY=60" width="70%"/>
 
 | | |
 |---|---|
@@ -275,7 +272,7 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=F5C518&center=true&vCenter=true&width=600&lines=%F0%9F%9F%A2+Learning+%7C+Creating+%7C+Experimenting+%7C+Building+—+Shutdown%3A+Never" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%F0%9F%9F%A2+Learning+%7C+Creating+%7C+Experimenting+%7C+Building+—+Shutdown%3A+Never" />
 
 </div>
 
@@ -287,6 +284,6 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 Thanks for visiting my developer universe ❤️
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1C1C1C,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D2818,50:00FF66,100:0D2818&height=120&section=footer" width="100%"/>
 
 </div>

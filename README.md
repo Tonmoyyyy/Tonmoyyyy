@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:4A0E12,100:0A0A0A&height=210&section=header&text=TONMOY.&fontSize=44&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=🎩%20Sharp%20Mind.%20Dark%20Aura.%20Silent%20Discipline.%20🎩&descAlignY=62&descSize=16&descColor=B08D57" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:4A0E12,100:0A0A0A&height=210&section=header&text=Welcome to Tonmoy's Developer Universe.&fontSize=44&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=🎩%20S%ve y échale un vistazo.%20🎩&descAlignY=62&descSize=16&descColor=B08D57" width="100%"/>
 
-# 🎩 Welcome to Tonmoy's Developer Universe
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
 

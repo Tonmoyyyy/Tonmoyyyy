@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D2818,50:00FF66,100:0D2818&height=210&section=header&text=OMNITRIX%20ACTIVATED&fontSize=34&fontColor=00FF66&animation=twinkling&fontAlignY=35&desc=👽%20It's%20Hero%20Time%20—%20Tonmoy's%20Developer%20Universe%20👽&descAlignY=62&descSize=16&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:4A0E12,100:0A0A0A&height=210&section=header&text=TONMOY.&fontSize=44&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=🎩%20Sharp%20Mind.%20Dark%20Aura.%20Silent%20Discipline.%20🎩&descAlignY=62&descSize=16&descColor=B08D57" width="100%"/>
 
 # 👾 Welcome to Tonmoy's Developer Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Initializing+Tonmoy.exe...;Loading+Creativity...;Loading+AI+Brain...;Loading+New+Ideas...;Developer+Mode+Activated+🚀" />
 
 </div>
 
@@ -281,6 +281,6 @@ A multi-agent AI simulation project modeling behaviors within a virtual society 
 
 Thanks for visiting my developer universe ❤️
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D2818,50:00FF66,100:0D2818&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:4A0E12,100:0A0A0A&height=120&section=footer" width="100%"/>
 
 </div>
